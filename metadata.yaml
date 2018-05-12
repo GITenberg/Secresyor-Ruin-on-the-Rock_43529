@@ -1,0 +1,29 @@
+_repo: Secresyor-Ruin-on-the-Rock_43529
+_version: 0.1.0
+alternative_title: Secrecy; or, Ruin on the Rock
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenwick, E. (Eliza)
+    alias: Fenwick, Eliza
+    birthdate: 1766
+    deathdate: 1840
+    gutenberg_agent_id: '33870'
+    url: http://www.gutenberg.org/2009/agents/33870
+description: ''
+gutenberg_issued: '2013-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Feminist fiction'
+title: Secresy; or, Ruin on the Rock
+url: http://www.gutenberg.org/ebooks/43529
